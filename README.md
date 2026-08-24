@@ -13,7 +13,7 @@
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🚀 About Me
 
@@ -28,7 +28,7 @@ availability: "15 days notice period"
 contact: sohailshaikh062003@gmail.com
 ```
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +48,7 @@ contact: sohailshaikh062003@gmail.com
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🏆 Featured Projects
 
@@ -91,7 +91,7 @@ Actively building and shipping new projects — check back for updates, or explo
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🎓 Certifications
 
@@ -103,7 +103,7 @@ Actively building and shipping new projects — check back for updates, or explo
 | Java | HackerRank | 2023 |
 | HTML & CSS | OpenWeaver | 2023 |
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -119,7 +119,7 @@ Actively building and shipping new projects — check back for updates, or explo
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 <img src="./assets/banner.svg" width="100%" />
