@@ -1,80 +1,97 @@
+<div align="center">
 
-Hi 👋, I'm Sohail Shaikh
+<img src="./assets/banner.svg" width="100%" />
 
-Full Stack Developer | MERN Stack | Java · Spring Boot | MCA Graduate from Pune
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A63F7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+Spring+Boot;MCA+Graduate+from+Pune;Open+to+new+opportunities+%E2%9C%A8" alt="Typing SVG" />
 
+<br/>
 
+<a href="mailto:sohailshaikh062003@gmail.com"><img src="https://img.shields.io/badge/Email-8A63F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sohail062003"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-  
-    
-  
-  
-    
-  
-  
-    
-  
+<img src="https://komarev.com/ghpvc/?username=Sohail062003&label=Profile%20Views&color=302b63&style=for-the-badge" />
 
+</div>
 
-
----
+<br/>
 
 ## 🚀 About Me
 
-- 🎓 **MCA Graduate** from Savitribai Phule Pune University
-- 💼 **Software Developer Intern** @ Bpointers Technology Pvt. Ltd (May–Nov 2025)
-- 🔭 Currently building **Vingo Food Express** – a full-stack food delivery platform
-- 💬 Ask me about **Java, Spring Boot, React.js, Node.js, REST APIs**
-- 📫 Reach me at **sohailshaikh062003@gmail.com**
-- ⚡ Available to join in **15 days or less**
+```yaml
+name: Sohail Shaikh
+role: Full Stack Developer
+education: MCA — Savitribai Phule Pune University
+current_focus: Building "Vingo Food Express" (full-stack food delivery platform)
+past: Software Developer Intern @ Bpointers Technology Pvt. Ltd (May – Nov 2025)
+ask_me_about: [Java, Spring Boot, React.js, Node.js, REST APIs]
+availability: "15 days notice period"
+contact: sohailshaikh062003@gmail.com
+```
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css&theme=dark" />
 
 **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php&theme=dark" />
 
 **Database & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github&theme=dark" />
+
+</div>
+
+<br/>
 
 ## 🏆 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🍔 [Vingo Food Express](https://github.com/Sohail062003/vingo-FE)
-> Full-stack food delivery platform with JWT auth & Role-Based Access Control (RBAC)
-- 3 user roles: customers, delivery partners, restaurant owners
-- 20+ scalable REST endpoints for orders, cart & restaurant listings
+Full-stack food delivery platform with JWT auth &amp; RBAC.
+- 3 user roles: customer, delivery partner, restaurant owner
+- 20+ scalable REST endpoints for orders, cart &amp; listings
 - **Stack:** React.js · Node.js · Express.js · MongoDB · JWT
 
+</td>
+<td width="50%" valign="top">
+
 ### 📇 [Smart Contact Manager](https://github.com/Sohail062003/scm2.0)
-> Secure contact management system with Spring Boot & Spring Security
-- JWT + OAuth authentication, 100+ user accounts with role-based access
-- 12+ REST endpoints with sub-100ms average response time
+Secure contact management system with Spring Boot &amp; Spring Security.
+- JWT + OAuth authentication, 100+ user accounts
+- 12+ REST endpoints, sub-100ms average response time
 - **Stack:** Spring Boot · Spring Security · MySQL · JWT · OAuth
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛍️ [E-Commerce Shopping Website](https://github.com/Sohail062003/RedStrore_Clothes_Shop)
-> Full-featured online clothing store
-- Product browsing, cart management, user auth & secure checkout
+Full-featured online clothing store.
+- Product browsing, cart management, secure checkout
 - **Stack:** HTML · CSS · JavaScript · PHP · MySQL
 
----
+</td>
+<td width="50%" valign="top">
+
+### ✨ More coming soon
+Actively building and shipping new projects — check back for updates, or explore the full list on my GitHub.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🎓 Certifications
 
@@ -86,26 +103,25 @@ Full Stack Developer | MERN Stack | Java · Spring Boot | MCA Graduate from Pune
 | Java | HackerRank | 2023 |
 | HTML & CSS | OpenWeaver | 2023 |
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-  
-  
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Sohail062003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63F7&icon_color=8A63F7&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sohail062003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A63F7&text_color=c9d1d9" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail062003&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A63F7&line=8A63F7&point=ffffff" width="95%" />
 
+<!-- Snake animation — see setup steps below -->
+<img src="https://raw.githubusercontent.com/Sohail062003/Sohail062003/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
+</div>
 
-  
+<br/>
 
-
-
----
-
-
-  
-
-
-    
-Copy Markdown
+<div align="center">
+<img src="./assets/banner.svg" width="100%" />
+<i>Thanks for stopping by — always open to connecting on interesting projects! 🚀</i>
+</div>
